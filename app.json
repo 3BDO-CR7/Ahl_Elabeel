@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "AHL-ALEBEL",
+    "slug": "AHL-ALEBEL",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "5.0.5",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.aait.Elebeel"
+    },
+    "android": {
+      "package": "app.aait.Elebeel",
+      "versionCode": 12,
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBCtrxqozj9xLkL58Frh0Gl4fiQZ_oATZI"
+        }
+      }
+    }
+  }
+}
