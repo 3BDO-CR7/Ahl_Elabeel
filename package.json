@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "axios": "^0.19.0",
-    "electron": "^5.0.3",
+    "electron": "^7.2.4",
     "ex-react-native-i18n": "0.0.5",
     "expo": "^33.0.0",
     "expo-camera": "^5.0.1",
